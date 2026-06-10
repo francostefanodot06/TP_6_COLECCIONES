@@ -1,5 +1,5 @@
 # Trabajo Práctico N° 6: Colecciones y Relaciones entre Clases
-¡Bienvenido a mi repositorio de **Programación II**! Este proyecto corresponde al Trabajo Práctico N° 6 de la **Tecnicatura Universitaria en Programación (UTN)**. En él se abordan de manera progresiva el uso de estructuras dinámicas, enumeraciones y el diseño de relaciones complejas entre objetos utilizando **Java**.
+ Este proyecto corresponde al Trabajo Práctico N° 6 de la **Tecnicatura Universitaria en Programación (UTN)**. En él se abordan de manera progresiva el uso de estructuras dinámicas, enumeraciones y el diseño de relaciones complejas entre objetos utilizando **Java**.
 
 ---
 
